@@ -9,7 +9,7 @@ crear_tabla_usuarios()
 usuarios = [
     ("Franco.guillen", "Illescas2147", "admin"),
     ("Nicolas.molina", "Megustaelpene", "admin"),
-    ("Maria.lopez", "clave123", "operador"),
+    ("Julieta.martinez", "Laperita", "operador"),
     ("Juan.perez", "contraseñaSegura", "operador"),
 ]
 
