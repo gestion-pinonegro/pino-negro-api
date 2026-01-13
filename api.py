@@ -18,7 +18,7 @@ app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "https://pino-negro-app.onrender.com",
-        "https://pino-negro-api.onrender.com",
+        "https://pino-negro-api-1.onrender.com",
         "*"
     ],
     allow_credentials=True,
